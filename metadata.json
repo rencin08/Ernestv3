@@ -1,0 +1,7 @@
+{
+  "name": "Spatial Daily Notes",
+  "description": "A minimalist spatial notes app that archives your daily thoughts automatically. Think freely on a canvas that resets every day.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
